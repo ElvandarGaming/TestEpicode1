@@ -23,7 +23,7 @@ public class SIM {
 	}
 
 	public void registerCall(String number, String duration) {
-		for (int i = callsLog.length-1; i > 0; i--) {
+		for (int i = callsLog.length - 1; i > 0; i--) {
 			callsLog[i] = callsLog[i - 1];
 		}
 		callsLog[0] = number + " " + duration;

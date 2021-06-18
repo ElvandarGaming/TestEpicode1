@@ -11,7 +11,7 @@ public class Start {
 		micro.printSim();
 
 		System.out.println();
-		
+
 		micro.registerCall("370 3796125", "  4 min , 32 secondi");
 		micro.registerCall("370 3796125", "  2 min , 26 secondi");
 		micro.registerCall("392 9585198", "  17 min , 45 secondi");

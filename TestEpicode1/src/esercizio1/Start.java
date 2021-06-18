@@ -11,7 +11,7 @@ public class Start {
 		System.out.println(first.area());
 
 		first.printRectangle(first);
-		
+
 		System.out.println();
 
 		first.printRectangles(first, second);
