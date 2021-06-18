@@ -17,6 +17,12 @@ public class Start {
 		basket.addArticle(libro);
 		basket.addArticle(libro);
 		basket.addArticle(libro3);
+		basket.addArticle(libro);
+		basket.addArticle(libro2);
+		basket.addArticle(libro);
+		basket.addArticle(libro);
+		basket.addArticle(libro);
+		basket.addArticle(libro3);
 
 		basket.total();
 
